@@ -20,7 +20,7 @@ multiply(4, 3)    # 12
 
 ## Installation
 
-Clone this repositroy and run the tests to verify everything works:
+Clone this repository and run the tests to verify everything works:
 
 ```bash
 python -m pytest
